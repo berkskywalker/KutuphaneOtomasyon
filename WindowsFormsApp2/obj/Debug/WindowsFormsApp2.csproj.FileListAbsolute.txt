@@ -1,0 +1,71 @@
+C:\Users\berk\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\berk\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\berk\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\berk\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\berk\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\berk\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\berk\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\berk\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\berk\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\berk\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\berk\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\berk\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\berk\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kitapekle.resources
+C:\Users\berk\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kitapliste.resources
+C:\Users\ata\Downloads\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\ata\Downloads\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\ata\Downloads\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\ata\Downloads\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\ata\Downloads\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ata\Downloads\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\ata\Downloads\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\ata\Downloads\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\ata\Downloads\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kitapekle.resources
+C:\Users\ata\Downloads\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kitapliste.resources
+C:\Users\ata\Downloads\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\ata\Downloads\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\ata\Downloads\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\ata\Downloads\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\ata\Downloads\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\ata\Downloads\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form6.resources
+C:\Users\berk\Downloads\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\berk\Downloads\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\berk\Downloads\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\berk\Downloads\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\berk\Downloads\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\berk\Downloads\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\berk\Downloads\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\berk\Downloads\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kitapekle.resources
+C:\Users\berk\Downloads\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kitapliste.resources
+C:\Users\berk\Downloads\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form6.resources
+C:\Users\berk\Downloads\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\berk\Downloads\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\berk\Downloads\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\berk\Downloads\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\berk\Downloads\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\berk\Downloads\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form8.resources
+C:\Users\berk\Downloads\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form7.resources
+C:\Users\berk\Downloads\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form9.resources
+C:\Users\berk\Downloads\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form10.resources
+C:\Users\berk\Downloads\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form11.resources
+C:\Users\ata\Downloads\WindowsFormsApp2 (3)\KutuphaneOtomasyonu\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\ata\Downloads\WindowsFormsApp2 (3)\KutuphaneOtomasyonu\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\ata\Downloads\WindowsFormsApp2 (3)\KutuphaneOtomasyonu\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\ata\Downloads\WindowsFormsApp2 (3)\KutuphaneOtomasyonu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\ata\Downloads\WindowsFormsApp2 (3)\KutuphaneOtomasyonu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ata\Downloads\WindowsFormsApp2 (3)\KutuphaneOtomasyonu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form10.resources
+C:\Users\ata\Downloads\WindowsFormsApp2 (3)\KutuphaneOtomasyonu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form11.resources
+C:\Users\ata\Downloads\WindowsFormsApp2 (3)\KutuphaneOtomasyonu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form8.resources
+C:\Users\ata\Downloads\WindowsFormsApp2 (3)\KutuphaneOtomasyonu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\ata\Downloads\WindowsFormsApp2 (3)\KutuphaneOtomasyonu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\ata\Downloads\WindowsFormsApp2 (3)\KutuphaneOtomasyonu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\ata\Downloads\WindowsFormsApp2 (3)\KutuphaneOtomasyonu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kitapekle.resources
+C:\Users\ata\Downloads\WindowsFormsApp2 (3)\KutuphaneOtomasyonu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.kitapliste.resources
+C:\Users\ata\Downloads\WindowsFormsApp2 (3)\KutuphaneOtomasyonu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form6.resources
+C:\Users\ata\Downloads\WindowsFormsApp2 (3)\KutuphaneOtomasyonu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form7.resources
+C:\Users\ata\Downloads\WindowsFormsApp2 (3)\KutuphaneOtomasyonu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form9.resources
+C:\Users\ata\Downloads\WindowsFormsApp2 (3)\KutuphaneOtomasyonu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\ata\Downloads\WindowsFormsApp2 (3)\KutuphaneOtomasyonu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\ata\Downloads\WindowsFormsApp2 (3)\KutuphaneOtomasyonu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\ata\Downloads\WindowsFormsApp2 (3)\KutuphaneOtomasyonu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\ata\Downloads\WindowsFormsApp2 (3)\KutuphaneOtomasyonu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
